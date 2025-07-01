@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=MyDeliverer&label=Stargazers&color=769abb)
+![](https://komarev.com/ghpvc/?username=MyDeliverer&label=Stargazers&color=5e9dd5)
 ___
 ![Awwwwphainon](https://github.com/user-attachments/assets/500d9f10-ddc8-42f4-8e1a-2f42d978952b)
 <!--
