@@ -1,4 +1,4 @@
-<h1 align="center">(https://komarev.com/ghpvc/?username=MyDeliverer&label=viewers&color=grey)</h1>![](https://komarev.com/ghpvc/?username=MyDeliverer&label=viewers&color=grey)
+(https://komarev.com/ghpvc/?username=MyDeliverer&label=viewers&color=grey)
 ___
 ![miku-vocaloid](https://github.com/user-attachments/assets/4ff36c6b-84e7-4b6d-acec-8dd74b650f28)
 
