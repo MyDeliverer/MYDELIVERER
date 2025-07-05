@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=MyDeliverer&label=&style=for-the-badge&color=969fa9)
+![](https://komarev.com/ghpvc/?username=MyDeliverer&label=⊹&style=for-the-badge&color=969fa9)
 ___
 ![miku-vocaloid](https://github.com/user-attachments/assets/4ff36c6b-84e7-4b6d-acec-8dd74b650f28)
 <!--
