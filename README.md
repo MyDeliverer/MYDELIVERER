@@ -1,5 +1,6 @@
-![](https://komarev.com/ghpvc/?username=MyDeliverer&label=viewers&color=939393)
+![](https://komarev.com/ghpvc/?username=MyDeliverer&label=viewers&color=grey)
 ___
+![image](https://github.com/user-attachments/assets/6da48691-c441-4a57-8d97-70945878da46)
 
 <!--
 **zairren/zairren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
